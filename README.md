@@ -30,12 +30,21 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Conclusions
+- Weather situtation is more related to Customers where clear weather brings more users.
+- Temperature and Windspeed are also related to Customers.
+- All the depandent variables are Weather situtation, Temperature, Windspeed, Year, Season, Month and Holiday.
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
 ## Technologies Used
 - Numpy
 - Pandas
 - Seaborn/Matplotlib
-- Scikit
+- SkLearn
 - Python
+- Statsmodel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
